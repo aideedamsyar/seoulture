@@ -20,5 +20,8 @@
   "homepage": "https://github.com/aideedamsyar/seoulture#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1"
+  },
+  "dependencies": {
+    "eleventy-plugin-seo": "^0.5.2"
   }
 }
