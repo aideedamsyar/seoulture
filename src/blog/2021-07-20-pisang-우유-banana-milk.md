@@ -3,6 +3,9 @@ title: Pisang 우유 [Banana Milk]
 description: Introduced by Koreans to us by means of import, this beverage that
   mixes plain milk with banana flavour was unsurprisingly taken to a liking
   immediately by our people.
+summary: Introduced by Koreans to us by means of import, this beverage that
+  mixes plain milk with banana flavour was unsurprisingly taken to a liking
+  immediately by our people.
 author: Tengku Aideed Amsyar
 date: 2021-07-20T11:01:40.403Z
 tags:
