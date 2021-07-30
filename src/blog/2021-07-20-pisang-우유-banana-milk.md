@@ -1,5 +1,5 @@
 ---
-title: Pisang 우유 [Banana Milk]
+title: Pisang 우유 [Banana Milk] 🍌🥛
 description: Introduced by Koreans to us by means of import, this beverage that
   mixes plain milk with banana flavour was unsurprisingly taken to a liking
   immediately by our people.
