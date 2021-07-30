@@ -1,5 +1,5 @@
 ---
-title: Pisang 우유 [Banana Milk]
+title: Pisang 우유 [Banana Milk] 🍌🥛
 description: Introduced by Koreans to us by means of import, this beverage that
   mixes plain milk with banana flavour was unsurprisingly taken to a liking
   immediately by our people.
@@ -26,15 +26,12 @@ This is because bananas were imported from a tropical country like the Philippin
 
 That is why I think that even though this product got here from Korea and is technically new to us, the feeling of drinking it helplessly reminds you of where you belong as a Malaysian. It could never work without our countries' contribution; the bananas from our humid country and the idea to mix the two ingredients that have two different images in Korea together. It is so unique yet so close to heart, a fusion of both Korean and Malaysian culture at its finest, and the best way to start our journey on exploring these cultures, Our story.
 
-<div class="codegena" style="position:relative; width:100%; height:0; padding-bottom:56.27198%;">    
-    <iframe width='560' height='329' src="https://www.youtube.com/embed/PGy-AOin4OM?&theme=dark&autohide=2&rel=0"frameborder="0" style="    position:absolute;top:0;left:0;width:100%;height:100%;}"></iframe>
+<div class="codegena" style="position:relative;width:100%;height:0;padding-bottom:56.27198%;">
+    <iframe width='560' height='329' src="https://www.youtube.com/embed/vYie_RrDHpQ?&theme=dark&autohide=2&rel=0"frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+    </iframe>
 </div>
 
 —
-
-—
-
-
 
 *Check out one of our Instagram reposts below :)*
 
