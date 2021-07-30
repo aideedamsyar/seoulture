@@ -28,11 +28,10 @@ Ah! Did I mention how bojagi started to be considered as art objects only in the
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d1/Patchwork_Bojagi_%28Wrapping_Cloth%29_MET_DP158238.jpg "Silk patchwork Bojagi from the collection of the Met. Source: Wikimedia commons")
 
-<div class="codegena" style="position:relative; width:100%; height:0; padding-bottom:56.27198%;">    
-    <iframe width='560' height='329' src="https://www.youtube.com/watch?v=vYie_RrDHpQ"    position:absolute;top:0;left:0;width:100%;height:100%;}"></iframe>
+<div class="codegena" style="position:relative;width:100%;height:0;padding-bottom:56.27198%;">
+    <iframe width='560' height='329' src="https://www.youtube.com/embed/vYie_RrDHpQ?&theme=dark&autohide=2&rel=0"frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+    </iframe>
 </div>
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vYie_RrDHpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 —
 
