@@ -32,6 +32,8 @@ Ah! Did I mention how bojagi started to be considered as art objects only in the
     <iframe width='560' height='329' src="https://www.youtube.com/watch?v=vYie_RrDHpQ"    position:absolute;top:0;left:0;width:100%;height:100%;}"></iframe>
 </div>
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vYie_RrDHpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 —
 
 Check out one of our Instagram reposts!
