@@ -14,7 +14,7 @@ tags:
 image: https://images.squarespace-cdn.com/content/v1/581ff5eef5e231b25f9c12db/1486578614706-TUH98IZDLPZXSU5HUDPZ/Image+2-2+mini+bojagi.jpg
 imageAlt: "Source: Korean Cultural Center New York"
 ---
-Some of us might have witnessed special occasions such as a wedding and housewarming party in Korean dramas or reality TV shows, where Koreans are seen to be giving their gifts neatly wrapped in some sort of cloth. It is very interesting to explore whether these wrappings are just a quick way to skip the task of using a typical wrapping paper and a sellotape or hold any special meaning. Yes, you guessed it right. Of course, they are not merely a random way of wrapping a gift.
+Some of us might have witnessed special occasions such as a wedding and housewarming party in Korean dramas or reality TV shows, where Koreans are seen to be giving their gifts neatly wrapped in some sort of cloth. It is very interesting to explore whether these wrappings are just a quick way to skip the task of using a typical wrapping paper and a sellotape or they do actually hold any special meaning. Yes, you guessed it right. Of course, they are not merely a random way of wrapping a gift.
 
 ![](/assets/blog/6754c9e31fea4de29e71d5ac39ae49c3.jpg "Source: Wikimedia commons & Talk Talk Korea")
 
