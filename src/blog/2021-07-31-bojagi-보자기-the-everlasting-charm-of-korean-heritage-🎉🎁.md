@@ -7,11 +7,11 @@ summary: Some of us might have witnessed special occasions such as a wedding and
   housewarming party in Korean dramas or reality TV shows, where Koreans are
   seen to be giving their gifts neatly wrapped in some sort of cloth.
 author: Tengku Aideed Amsyar
-date: 2021-07-30T10:35:29.132Z
+date: 2021-07-31T09:41:46.367Z
 tags:
   - post
   - featured
-image: /assets/blog/image-2-2-mini-bojagi.jpg
+image: /assets/blog/bojagi-cover.jpeg
 imageAlt: "Source: Korean Cultural Center New York"
 ---
 Some of us might have witnessed special occasions such as a wedding and housewarming party in Korean dramas or reality TV shows, where Koreans are seen to be giving their gifts neatly wrapped in some sort of cloth. It is very interesting to explore whether these wrappings are just a quick way to skip the task of using a typical wrapping paper and a sellotape or they do actually hold any special meaning. Yes, you guessed it right. Of course, they are not merely a random way of wrapping a gift.
@@ -28,7 +28,7 @@ Ah! Did I mention how *bojagi* started to be considered as art objects only in t
 
 That will be all for this entry. Thanks a lot for your support! 🤩
 
-![](https://upload.wikimedia.org/wikipedia/commons/d/d1/Patchwork_Bojagi_%28Wrapping_Cloth%29_MET_DP158238.jpg "Silk patchwork Bojagi from the collection of the Met. Source: Wikimedia commons")
+![](https://upload.wikimedia.org/wikipedia/commons/d/d1/Patchwork_Bojagi_%28Wrapping_Cloth%29_MET_DP158238.jpg "Source: Metropolitan Museum of Art, CC0, Wikimedia Commons")
 
 <div class="codegena" style="position:relative;width:100%;height:0;padding-bottom:56.27198%;">
     <iframe width='560' height='329' src="https://www.youtube.com/embed/vYie_RrDHpQ?&theme=dark&autohide=2&rel=0"frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;">
