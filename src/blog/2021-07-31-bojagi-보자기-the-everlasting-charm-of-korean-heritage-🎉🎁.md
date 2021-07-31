@@ -28,7 +28,7 @@ Ah! Did I mention how *bojagi* started to be considered as art objects only in t
 
 That will be all for this entry. Thanks a lot for your support! 🤩
 
-![](/assets/blog/bojagi-collage.jpeg "Silk patchwork Bojagi from the collection of the Met. Source: Wikimedia commons")
+![](https://upload.wikimedia.org/wikipedia/commons/d/d1/Patchwork_Bojagi_%28Wrapping_Cloth%29_MET_DP158238.jpg "Source: Metropolitan Museum of Art, CC0, Wikimedia Commons")
 
 <div class="codegena" style="position:relative;width:100%;height:0;padding-bottom:56.27198%;">
     <iframe width='560' height='329' src="https://www.youtube.com/embed/vYie_RrDHpQ?&theme=dark&autohide=2&rel=0"frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;">
