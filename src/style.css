@@ -2,7 +2,7 @@
 
 :root {
   --fs-300: 0.9375rem;
-  --fs-400: 1.0625rem;
+  --fs-400: 1.3125rem;
   --fs-500: 1.725rem;
   --fs-600: 1.875rem;
   --fs-700: 2rem;
@@ -123,7 +123,7 @@ select {
 
 body {
   font-family: var(--ff-body);
-  font-size: var(--fs-400);
+  font-size: 1.3125rem;
   color: var(--clr-neutral-900);
 }
 
@@ -160,12 +160,12 @@ section,
 
 .container {
   margin-inline: auto;
-  padding-inline: 1.5em;
+  padding-inline: 1rem;
   max-width: 72rem;
 }
 
 .container--narrow {
-  max-width: 65rem;
+  max-width: 50rem;
 }
 
 .flex-group {
