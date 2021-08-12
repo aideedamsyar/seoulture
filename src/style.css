@@ -279,6 +279,7 @@ section,
     margin: 1rem 0;
     font-size: var(--fs-300);
     opacity: .9;
+    margin-left: 1rem;
     
   }
 
