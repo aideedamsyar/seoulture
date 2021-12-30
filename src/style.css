@@ -261,6 +261,7 @@ section,
 
 .featured-articles {
   background-color: var(--clr-primary-200);
+  margin-top: -15rem;
 }
 
 .articles__list {
