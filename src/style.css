@@ -123,7 +123,7 @@ select {
 
 body {
   font-family: var(--ff-body);
-  font-size: 1.3125rem;
+  font-size: 1.12rem;
   color: var(--clr-neutral-900);
 }
 
@@ -423,3 +423,10 @@ section,
   }
 } */
 
+
+.message {
+  animation: gradientAnimation 5s ease infinite;
+  background: linear-gradient(90deg, rgba(255,74,6,1) 0%, rgba(184,87,255,1) 78%, rgba(255,13,142,1) 100%);
+  background-size: 200% 200%;
+  color: white; /* Ensure text color contrasts with the background */
+}
